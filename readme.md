@@ -6,10 +6,10 @@
 
 ## 🎯 Purpose
 A centralized, GitHub-friendly place to:
-- Track **Black Friday/Cyber Monday deals** for security tools & training
-- Monitor **year-round vendors** for discounts
+- Track **year-round deals and discounts** for security tools, training, and vendors
 - Maintain a list of **critical security services** I personally use or recommend
 - Curate **career development resources** that reflect a hands-on, practical approach
+
 
 ---
 
