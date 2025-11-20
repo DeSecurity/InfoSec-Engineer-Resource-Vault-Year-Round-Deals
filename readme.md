@@ -25,7 +25,7 @@ These are security essentials I monitor annually for deals, but keep active rega
   [https://www.yubico.com](https://www.yubico.com)
 
 ### 🔐 VPN Providers *(Personally Recommended Only)*
-- **ProtonVPN**  
+- **ProtonVPN**  [Proton Black Friday deals: All plans and discounts | Proton](https://proton.me/black-friday)
 - **Mullvad VPN**  
 - **Self-Rolled VPN** *(WireGuard/OpenVPN on personal VPS or server)*
 
