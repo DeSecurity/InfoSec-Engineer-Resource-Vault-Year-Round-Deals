@@ -70,6 +70,8 @@ Tailored to my self-taught, project-first path.
 - **RTFM Video Library** (Red Team tradecraft)
 - **CyberWarFare Labs**, **DroneSec**
 
+
+[Extras | Hack Academy](https://buymeacoffee.com/hackacademy/extras)
 ---
 
 ## 👁️ Year-Round Vendors to Monitor for Discounts
