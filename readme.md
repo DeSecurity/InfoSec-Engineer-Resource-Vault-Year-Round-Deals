@@ -55,6 +55,9 @@ Tailored to my self-taught, project-first path.
 - **Hack The Box**  
   [https://www.hackthebox.com/pricing](https://www.hackthebox.com/pricing)
 - white knight labs
+  [White Knight Labs Cyber Security Training](https://training.whiteknightlabs.com/)
+
+  [Advanced Red Team Operations Certification - White Knight Labs Cyber Security Training](https://training.whiteknightlabs.com/certifications/advanced-red-team-operations-certification/)
 
 
 
@@ -70,7 +73,7 @@ Tailored to my self-taught, project-first path.
 - **Security Onion** (defensive stack & training)
 - **13Cubed** (OS Forensics)
 - **Level Effect CDA**
-- **RTFM Video Library** (Red Team tradecraft)
+- **RTFM Video Library** (Red Team tradecraft) [Red Team Field Manual (RTFM) Video Library](https://www.thertfm.com/rtfm-video-library) 
 - **CyberWarFare Labs**, **DroneSec**
 
 
