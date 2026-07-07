@@ -54,10 +54,13 @@ Tailored to my self-taught, project-first path.
   [https://maldevacademy.com/phishing-course/pricing](https://maldevacademy.com/phishing-course/pricing)
 - **Hack The Box**  
   [https://www.hackthebox.com/pricing](https://www.hackthebox.com/pricing)
+- white knight labs
+
 
 
 
 ### 📚 Practical Training & Certs
+- ***OSCP***
 - **CloudBreach**, **Practical DevSecOps**, **AppSecEngineer**
 - **Zero-Point Security**, **Altered Security**, **MobileHackingLab**
 - **SecOps Group**, **INE (eLearnSecurity)**, **Sektor7**, **7ASecurity**
@@ -72,6 +75,7 @@ Tailored to my self-taught, project-first path.
 
 
 [Extras | Hack Academy](https://buymeacoffee.com/hackacademy/extras)
+
 ---
 
 ## 👁️ Year-Round Vendors to Monitor for Discounts
