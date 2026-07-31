@@ -1,6 +1,6 @@
 # 🛡️ InfoSec Engineer Resource Vault & Year-Round Deals
 
-> **Note:** This page is not a checklist of requirements to become an infosec engineer. I started this journey without formal certifications, driven by curiosity, hands-on practice, and a love for hacking and learning. This page is a curated list of tools, training, and services tailored to my path — practical, self-driven, and focused on deep skill development. It’s meant for security engineers who want to grow by doing — not just checking boxes.
+> **Note:** This page is not a checklist of requirements to become an infosec engineer. I started this journey without formal certifications, driven by curiosity, hands-on practice, and a love for hacking and learning. This page is a curated list of tools, training, and services tailored to my path, practical, self-driven, and focused on deep skill development. It’s meant for security engineers who want to grow by doing, not just checking boxes.
 
 ---
 
@@ -43,8 +43,8 @@ Tailored to my self-taught, project-first path.
 ### 🔨 Skill-Driven Platforms (Red & Blue Teaming)
 - **TryHackMe**  
   [https://tryhackme.com/pricing](https://tryhackme.com/pricing)
-- **LetsDefend**
 - **TCM Academy** (PNPT route)
+- **LetsDefend**
 - **Security Blue Team (BTL)**
 - **SpecterOps** – Advanced Ops
 - **PwnedLabs**, **PentesterLab**, **HackTricks**
